@@ -1,0 +1,12 @@
+# Virtual Environment
+neural/
+
+# Dataset folders
+audio_features_dataset/
+Data/
+
+# Large Model Weights (PyTorch)
+*.pth
+best_model_96.pth
+best_model.pth
+mfcc_model_final.pth
