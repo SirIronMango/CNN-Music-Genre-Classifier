@@ -6,7 +6,7 @@
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)](https://tensorflow.org)
 
-[![Pytorch](https://img.shields.io/badge/Pytorch-2.10-yellow.svg](https://pytorch.org)
+[![Pytorch](https://img.shields.io/badge/Pytorch-2.10-yellow.svg)](https://pytorch.org)
 
 ## Goal
 
