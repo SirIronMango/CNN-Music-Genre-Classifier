@@ -1,12 +1,12 @@
-# {Music Genre Classification using CNN}
+# Music Genre Classification using CNN
 
-{A deep learning project focused on classifying audio signals using Convolutional Neural Networks (CNNs) implemented in PyTorch. It uses the Music Genre CLassification - [GTZAN Dataset]([text](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)).}
+{A deep learning project focused on classifying audio signals using Convolutional Neural Networks (CNNs) implemented in PyTorch. It uses the Music Genre CLassification - [GTZAN Dataset]([text](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification)).
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue)](https://www.python.org/downloads/)
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange)](https://tensorflow.org)
 
-[![Pytorch](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Pytorch](https://img.shields.io/badge/Pytorch-2.10-yellow.svg](https://pytorch.org)
 
 ## Goal
 
